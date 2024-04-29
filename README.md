@@ -1,3 +1,5 @@
+![kendra](images/image.jfif)
+
 # Kendra
 
 An artificial intelligence framework by Landia
