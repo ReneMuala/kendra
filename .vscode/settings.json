@@ -1,0 +1,7 @@
+{
+    "Lua.workspace.library": [
+        "/Users/renemuala/.vscode/extensions/manticoregames.vscode-core-1.9.8/out/EmmyLua",
+        "/Users/renemuala/Library/Application Support/Code/User/globalStorage/sumneko.lua/addonManager/addons/yue/module/library"
+    ],
+    "Lua.workspace.checkThirdParty": false
+}
